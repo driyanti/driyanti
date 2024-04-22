@@ -3,7 +3,7 @@ I work on
 - Geophysical applications
 - Astrophysics application: two open-source software packages
   SPEX software (https://research-software-directory.org/projects/spex-x-ray-spectral-fitting-package)
-  RADEX software ( https://radex.sron.nl/radex.php: new open-source version will be released soon.)
+  RADEX software (https://var.sron.nl/radex/radex.php -current version-; a new open-source version will be released soon.)
 <!--
 **driyanti/driyanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
